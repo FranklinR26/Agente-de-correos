@@ -1,0 +1,22 @@
+[
+  {
+    "texto": "Examen parcial el 20 de abril a las 10:00",
+    "categoria": "academico",
+    "accion": "crear_evento"
+  },
+  {
+    "texto": "Entrega del proyecto final este viernes",
+    "categoria": "tarea",
+    "accion": "crear_evento"
+  },
+  {
+    "texto": "Se suspende la clase de mañana",
+    "categoria": "aviso",
+    "accion": "notificar"
+  },
+  {
+    "texto": "Pago de matrícula hasta el 25 de abril",
+    "categoria": "financiero",
+    "accion": "recordatorio"
+  }
+]
